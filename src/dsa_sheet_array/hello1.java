@@ -30,6 +30,7 @@ public class hello1 {
         System.out.println("max ="+max);
         System.out.println("min ="+min);
 
+
     }
 
 }
